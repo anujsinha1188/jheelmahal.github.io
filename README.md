@@ -1,2 +1,2 @@
 # jheelmahal
-Website to Hotel Jheel Mahal
+Website: Hotel Jheel Mahal
